@@ -1,0 +1,3 @@
+[submodule "spring-bank-api-gateway"]
+	path = spring-bank-api-gateway
+	url = /home/aelkassimi/formationProject/BankApp/spring-bank-api-gateway
